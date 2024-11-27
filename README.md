@@ -3,19 +3,17 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gabriel-Kraus&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=Gabriel-Kraus&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gabriel-Kraus&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/Gabriel-Kraus/Gabriel-Kraus/output/snake.svg" alt="Snake animation" />
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/gabrielhtkraus/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
@@ -37,14 +35,6 @@
 
 <div align="center">
   <img height="200" src="https://media.giphy.com/media/AlhnCfu6SuSD6/giphy.gif?cid=ecf05e47cgc6elfhx9ymyc0kjrh66ogvwfgzsshe7gkt19xl&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
-</div>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/gabrielkraus98">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=gabrielkraus98&count=1" alt="Spotify recently played"  />
-  </a>
 </div>
 
 ###
