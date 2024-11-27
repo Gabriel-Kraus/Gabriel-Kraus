@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="center">Hi 👋! My name is Gabriel! I'm a student in Systems Analysis and Development at FMP.<br><br>Welcome to my profile!</h2>
 
 ###
 
@@ -9,7 +9,9 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Gabriel-Kraus/Gabriel-Kraus/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img height="200" src="https://media.giphy.com/media/AlhnCfu6SuSD6/giphy.gif?cid=ecf05e47cgc6elfhx9ymyc0kjrh66ogvwfgzsshe7gkt19xl&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+</div>
 
 ###
 
@@ -29,12 +31,6 @@
   <a href="mailto:gabriel.kraus@aluno.fmpsc.br" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
-</div>
-
-###
-
-<div align="center">
-  <img height="200" src="https://media.giphy.com/media/AlhnCfu6SuSD6/giphy.gif?cid=ecf05e47cgc6elfhx9ymyc0kjrh66ogvwfgzsshe7gkt19xl&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 </div>
 
 ###
