@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Gabriel! I'm a student in Systems Analysis and Development at FMP.<br><br>Welcome to my profile!</h2>
+<h3 align="center">Hi 👋! My name is Gabriel! I'm a student in Systems Analysis and Development at FMP.<br><br>Welcome to my profile!</h3>
 
 ###
 
